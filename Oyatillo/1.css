@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+}
+
+header {
+  background-color: rgb(123, 148, 237);
+  height: 100vh;
+  font-size: 20px;
+}
+
+nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding-top: 40px;
+}
+nav a {
+  margin-left: -800px;
+}
+
+.asos {
+  display: flex;
+}
+.asos .ff {
+  margin-left: 500px;
+}
+.asos .ff h1 {
+  margin-top: 300px;
+  font-size: 50px;
+  color: rgb(240, 237, 237);
+  margin-right: 500px;
+}
+.asos .ff p {
+  width: 400px;
+}
+
+img {
+  margin-left: -600px;
+}/*# sourceMappingURL=1.css.map */
